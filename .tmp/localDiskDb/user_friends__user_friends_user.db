@@ -1,0 +1,13 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"id":1,"user_friends":2,"user_friends_user":3,"_id":1}
+{"id":2,"user_friends":2,"user_friends_user":4,"_id":2}
+{"id":3,"user_friends":2,"user_friends_user":5,"_id":3}
+{"id":4,"user_friends":3,"user_friends_user":2,"_id":4}
+{"id":5,"user_friends":3,"user_friends_user":4,"_id":5}
+{"id":6,"user_friends":3,"user_friends_user":5,"_id":6}
+{"id":7,"user_friends":4,"user_friends_user":2,"_id":7}
+{"id":8,"user_friends":4,"user_friends_user":3,"_id":8}
+{"id":9,"user_friends":4,"user_friends_user":5,"_id":9}
+{"id":10,"user_friends":5,"user_friends_user":2,"_id":10}
+{"id":11,"user_friends":5,"user_friends_user":3,"_id":11}
+{"id":12,"user_friends":5,"user_friends_user":4,"_id":12}
